@@ -1,7 +1,7 @@
 from census import censusData
 
 #initiate
-a = census(28.35975,-81.421988)
+a = censusData(28.35975,-81.421988)
 
 #get all data
 a.data()
